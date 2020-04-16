@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (4.9.Our_House_V_0.5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  HW4_S130956.cpp
+c:\users\장동욱\downloads\hw2_s130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\4.9.our_house_v_0.5\hw4_s130956.cpp(215): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\장동욱\downloads\hw2_s130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\4.9.our_house_v_0.5\object_definitions.h(72): warning C4101: 'filename': unreferenced local variable
+c:\users\장동욱\downloads\hw2_s130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\4.9.our_house_v_0.5\object_definitions.h(71): warning C4101: 'i': unreferenced local variable
+c:\users\장동욱\downloads\hw2_s130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\4.9.our_house_v_0.5\object_definitions.h(225): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\장동욱\downloads\hw2_s130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\4.9.our_house_v_0.5\object_definitions.h(411): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\장동욱\downloads\hw2_s130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\4.9.our_house_v_0.5\object_definitions.h(1712): warning C4101: 'adjusted_time': unreferenced local variable
+c:\users\장동욱\downloads\hw2_s130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\4.9.our_house_v_0.5\hw4_s130956.cpp(574): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\장동욱\downloads\hw2_s130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\4.9.our_house_v_0.5\hw4_s130956.cpp(601): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\장동욱\downloads\hw2_s130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\4.9.our_house_v_0.5\hw4_s130956.cpp(933): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\장동욱\downloads\hw2_s130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\4.9.our_house_v_0.5\hw4_s130956.cpp(938): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\장동욱\downloads\hw2_s130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\4.9.our_house_v_0.5\hw4_s130956.cpp(897): warning C4101: 'aspect_ratio': unreferenced local variable
+c:\users\장동욱\downloads\hw2_s130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\4.9.our_house_v_0.5\hw4_s130956.cpp(1019): warning C4305: '=': truncation from 'CAM_TYPE' to 'bool'
+c:\users\장동욱\downloads\hw2_s130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\4.9.our_house_v_0.5\hw4_s130956.cpp(1376): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  4.9.Our_House_V_0.5.vcxproj -> C:\Users\장동욱\Downloads\HW2_S130956 (18) - 복사본 - 복사본 - 복사본 - 복사본 - 복사본 - 복사본\x64\Debug\HW2_S130956.exe
